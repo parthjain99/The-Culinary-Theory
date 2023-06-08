@@ -45,7 +45,7 @@ db_pwd=<same as MONGO_INITDB_PWD>
 db_name=<same as MONGO_INITDB_DATABASE>
 db_host=mongodb
 ```
-Do not commit this `.env` file.  
+
 **Note: The application will need more environment variables - aws credentials, paypal credentials, email credentials for image upload, subscribe to premium and image upload to work. Credentials we have used are not shared here as it is not safe to do so.**
 
 ## Starting the server
